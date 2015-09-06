@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="granite-core-2.1.0.GA">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/granite-core-2.1.0.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/granite-eclipselink-2.1.0.GA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

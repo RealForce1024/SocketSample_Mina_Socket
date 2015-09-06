@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="persistence (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-simple-1.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="hibernate3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/hibernate3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hibernate-annotations.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hibernate-commons-annotations.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hibernate-entitymanager.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hsqldb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javassist-3.4.GA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="cglib-2.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/cglib-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ejb3-persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.persistence_2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.5.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
